@@ -1,0 +1,5 @@
+{
+  "name": "Forest Fire Detection AI",
+  "description": "An AI-powered application that analyzes uploaded videos of forests or outdoor areas to detect and highlight fire and smoke in real-time. The app processes videos frame-by-frame, drawing bounding boxes to track potential threats, and provides a processed video output for review.",
+  "requestFramePermissions": []
+}
